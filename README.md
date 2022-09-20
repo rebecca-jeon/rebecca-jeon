@@ -1,6 +1,6 @@
 👋 Hello! I am Rebecca. A Computer Science Student at UVIC!
 
-I have recently developed huge interest in coding and the aesthetics of algorithms within the past 2-3 years. I enjoy problem solving and the ecstatic feelings that come with it! I have always been a quick learner and an admirer of learning new skills :)
+Years ago I have developed a huge interest in coding and the aesthetics of algorithms. I enjoy problem solving and the ecstatic feelings that comes with it! I have always been a quick learner and an admirer of learning new skills :)
 
 Nice to meet you!
 
